@@ -7,6 +7,7 @@ class Node
         Node *next;
 
         //constructor
+    //Constructor
         Node(int data)
         {
             this->data=data;
